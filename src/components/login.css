@@ -1,0 +1,18 @@
+.container{
+    background-color: aquamarine;
+}
+
+.h2{
+    color: hotpink;
+    align-items: center;
+}
+
+.input-container{
+    /* width: 70%; */
+    align-content: center;
+}
+
+.password-container{
+    /* width: 70%; */
+    align-content: centre;
+}
